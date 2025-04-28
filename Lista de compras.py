@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 compras = []
 
 while True:
@@ -24,7 +23,6 @@ while True:
         print("\nFinalizando lista de compras. Obrigado!")
         break
 
-=======
 compras = []
 
 while True:
@@ -50,4 +48,3 @@ while True:
         print("\nFinalizando lista de compras. Obrigado!")
         break
 
->>>>>>> b848d89b1b90daadca6dbb96592dc8c6c8c05244
